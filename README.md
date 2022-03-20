@@ -1,3 +1,6 @@
+<a href="https://codesandbox.io/s/onedayseeinfo-l20icm">![About Me](https://github.com/OneDaySee/OneDaySee/blob/main/OneDaySee.gif)</a>
+
+
 <h1 align="center">Hi 👋, I'm Önder Birgüngör</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
