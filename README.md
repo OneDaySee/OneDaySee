@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **projects to improve myself.**
 
-- 🌱 I’m currently learning **.Net Core 5.0 MVC, C# and Jquery**
+- 🌱 I’m currently learning **.Net Core 8.0 MVC, C# and Jquery**
 
 - 📫 How to reach me **onderbirgungor@gmail.com**
 
